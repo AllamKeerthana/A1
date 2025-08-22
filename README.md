@@ -1,3 +1,5 @@
 # A1 Project
+# Parallel Image Filtering for Edge Detection
 
-This repository is for our project A1.
+This project implements parallel image filtering using OpenMP and MPI.
+
